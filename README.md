@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Ekaterina 👋🏻</h1>
+<h3 align="center">Python developer. Studying computer science</h3>
+
 
 <!--
 **Katrinaqr/Katrinaqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
