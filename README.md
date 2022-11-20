@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ekaterina 👋🏻</h1>
-<h3 align="center">Python developer. Studying computer science</h3>
+<h3 align="center">Python developer</h3>
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Katrinaqr/Katrinaqr/b55495d0fbda0f83227e13c46b30e2b884a05767/icons/bug-solid.svg" alt="bug" height="40" width="40">
